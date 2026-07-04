@@ -1,13 +1,13 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src=""C:\Users\acer\Desktop\ChatGPT Image Jul 4, 2026, 12_08_20 PM.png"" alt="Banner" width="100%">
+  <img src="C:\Users\acer\Desktop\ChatGPT Image Jul 4, 2026, 12_08_20 PM.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Prashant</h1>
 
 <h3 align="center">
- • Backend Enthusiast • Problem Solver
+ Full Stack MERN Developer • Backend Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
