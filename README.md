@@ -1,13 +1,13 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" alt="Banner" width="100%">
+  <img src=""C:\Users\acer\Desktop\ChatGPT Image Jul 4, 2026, 12_08_20 PM.png"" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Prashant</h1>
 
 <h3 align="center">
-Full Stack MERN Developer • Backend Enthusiast • Problem Solver
+ • Backend Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
@@ -20,7 +20,6 @@ Building scalable web applications with modern technologies 🚀
 
 - 🎓 B.Tech Information Technology Student
 - 💻 Passionate Full Stack MERN Developer
-- 🚀 MERN Stack Developer Intern
 - 🔥 I enjoy building production-ready web applications with scalable backend architecture.
 - 🧠 Solved **150+ DSA Problems** across multiple coding platforms.
 
@@ -30,11 +29,11 @@ Building scalable web applications with modern technologies 🚀
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/prashant-pathak-845322227/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:prashantpathak6594@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
