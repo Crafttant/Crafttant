@@ -1,8 +1,5 @@
 <!-- Banner -->
 
-<p align="center">
-  <img src="https://in.pinterest.com/pin/800514902565487939/" alt="Banner" width="100%">
-</p>
 
 <h1 align="center">Hi 👋, I'm Prashant</h1>
 
