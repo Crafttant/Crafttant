@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm prashant</h1>
+<!-- Banner -->
+
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_LINK" alt="Banner" width="100%">
+</p>
+
+<h1 align="center">Hi 👋, I'm Prashant</h1>
 
 <h3 align="center">
 Full Stack MERN Developer • Backend Enthusiast • Problem Solver
@@ -10,32 +16,30 @@ Building scalable web applications with modern technologies 🚀
 
 ---
 
-# 💫 About Me
+# 👋 About Me
 
-🎓 B.Tech Information Technology Student
+- 🎓 B.Tech Information Technology Student
+- 💻 Passionate Full Stack MERN Developer
+- 🚀 MERN Stack Developer Intern
+- 🔥 I enjoy building production-ready web applications with scalable backend architecture.
+- 🧠 Solved **150+ DSA Problems** across multiple coding platforms.
 
-💻 Passionate Full Stack Developer specializing in the MERN Stack.
-
-🚀 I enjoy building production-ready web applications with clean architecture and scalable backend systems.
-
-🧠 Solved **150+ DSA Problems** across various coding platforms.
-
-
+---
 
 # 🌐 Connect With Me
 
 <p align="center">
 
-<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/prashant-pathak-845322227/)">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:prashantpathak6574@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
 </a>
 
 </p>
@@ -44,167 +48,116 @@ Building scalable web applications with modern technologies 🚀
 
 # 💻 Tech Stack
 
-## 🚀 Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,js"/>
-
-</p>
-
----
-
 ## ⚙ Backend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-</p>
-
----
-
-## 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-</p>
+![](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/SOCKET.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![](https://img.shields.io/badge/PASSPORT.JS-34E27A?style=for-the-badge&logo=passport&logoColor=white)
+![](https://img.shields.io/badge/CLERK-6C47FF?style=for-the-badge)
+![](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
+![](https://img.shields.io/badge/CLUSTER-444444?style=for-the-badge)
 
 ---
 
-## 🛠 Tools
+## 🌐 Frontend
 
-<p>
+![](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/REACT_QUERY-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render"/>
+---
 
-</p>
+## 🗄 Databases & Cache
+
+![](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/MY_SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
 ## 💻 Languages
 
-<p>
+![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript"/>
+---
 
-</p>
+## 🛠 Tools & Platforms
+
+![](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![](https://img.shields.io/badge/CLOUDINARY-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![](https://img.shields.io/badge/MULTER-009688?style=for-the-badge)
+![](https://img.shields.io/badge/NODEMAILER-30B980?style=for-the-badge)
 
 ---
 
 # 🚀 Featured Projects
 
-### 🔗 URL Shortener
+## 🔗 QuickLink SaaS — URL Shortener & Analytics
 
-- Authentication
-- Analytics Dashboard
-- JWT Authentication
-- Role-Based Access
-- Responsive UI
-- MongoDB
-- Express
-- Node.js
+**Tech Stack**
 
----
+React • Node.js • Express • MongoDB • Clerk • React Query • Tailwind CSS
 
-### 💬 Anonymous Chat App
+### Features
 
-- Real-time Messaging
-- Socket.io
-- Invite Links
-- Secure Sessions
-- Responsive Design
+- 🔐 Authentication
+- 📊 Analytics Dashboard
+- 🔗 Custom Short URLs
+- ⏳ Link Expiration
+- 👤 User Dashboard
+- 🛡 Role Based Access
+- ⚡ REST APIs
+- 📱 Responsive UI
 
 ---
 
-### 📊 API Monitoring System
+## 💬 TimeChat — Anonymous Chat Platform
+
+**Tech Stack**
+
+React • Node.js • Express • MongoDB • Socket.io • Redis • WebRTC • Cloudinary
+
+### Features
+
+- 💬 Real-time Messaging
+- 🎥 Video Calling
+- 📞 Voice Calling
+- 🎨 Collaborative Whiteboard
+- 🔒 Temporary Chat Rooms
+- ☁ Cloudinary Uploads
+- ⚡ Redis Caching
+- 📱 Responsive UI
+
+---
+
+## 📊 API Monitoring System
+
+### Features
 
 - API Health Monitoring
-- Status Tracking
+- Status Dashboard
 - Logs
-- Dashboard
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-# 📌 Currently Learning
-
-- Next.js
-- System Design
-- Docker
-- Kubernetes
-- Redis
-- WebRTC
-
----
-
-# 🎯 Goals for 2026
-
-✅ Master MERN Stack
-
-✅ Learn DevOps
-
-✅ Crack Software Engineering Internship
-
-✅ Build SaaS Products
-
-✅ Contribute to Open Source
+- Analytics
+- REST APIs
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
+### ⭐ Thanks for visiting my profile ⭐
+
+If you like my projects, don't forget to ⭐ them!
 
 </p>
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-</h3>
