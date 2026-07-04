@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="C:\Users\acer\Desktop\ChatGPT Image Jul 4, 2026, 12_08_20 PM.png" alt="Banner" width="100%">
+  <img src="https://in.pinterest.com/pin/800514902565487939/" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Prashant</h1>
